@@ -1,3 +1,5 @@
+Link Google Colab - https://colab.research.google.com/drive/1UtzfttknU9073M5YfKvaJm2h9uTtzhd6?usp=sharing
+
 BUSINESS SCENARIO
 A retail chain operating across multiple cities in India wants to improve its decision-making by analysing customer purchase behaviour. The company has recently expanded into Tier-2 and Tier-3 cities and is experiencing challenges in understanding customer preferences, seasonal demand, and city-level sales performance. The raw transactional data from their stores is messy, incomplete, and inconsistent, making it difficult for business analysts to directly use it for insights.
 The company’s AI team has approached you (the participants) to preprocess the data, clean it, and visualize key patterns that can help management make better marketing and inventory decisions.
@@ -62,3 +64,4 @@ PART B: DATA VISUALIZATION TASKS
 
 4. Interactive Dashboard (Optional)
    - Use Power BI, Tableau, or Python (Plotly/Matplotlib/Seaborn) to create a small dashboard combining key KPIs.
+
